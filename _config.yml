@@ -1,0 +1,11 @@
+title: Joseph Hoon
+description: PhD Candidate in Economics at the National University of Singapore
+url: "https://josephhoon.github.io"
+baseurl: ""
+
+# Exclude build artifacts from the site output
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
