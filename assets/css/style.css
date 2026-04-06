@@ -84,11 +84,11 @@ h2 {
 }
 
 /* ── Links ── */
-a {
-  color: #000;
-}
-
-a:visited {
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
   color: #000;
 }
 
